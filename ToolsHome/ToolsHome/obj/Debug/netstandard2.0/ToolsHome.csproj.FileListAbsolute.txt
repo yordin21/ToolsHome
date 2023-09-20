@@ -31,3 +31,4 @@ C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\T
 C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\refint\ToolsHome.dll
 C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.pdb
 C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\Views\ToDo.xaml.g.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\Views\CrearTarea.xaml.g.cs

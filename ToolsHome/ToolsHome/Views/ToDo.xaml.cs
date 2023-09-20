@@ -13,14 +13,32 @@ namespace ToolsHome.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ToDo : ContentPage
     {
-        public IList<String> Tareas1 { get; set; }
-        public IList<Tarea> Tareas3 { get; set; }
-
-        public IList<Tarea> Tareas4 { get; set; }
         public ToDo()
         {
             InitializeComponent();
-            Tareas1 = new List<String>();
+        }
+        protected override void OnAppearing()
+
+        {
+            base.OnAppearing();
+            CargarItems();
+        }
+        private async void CargarItems()
+        {
+            var Tareas = await App.Context.GetItemsAsync();
+            cvTareas.ItemsSource = Tareas;
+
+        }
+        private async void ToolbarItem_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new CrearTarea());
+        }
+    }
+
+}
+            
+            
+            /*Tareas1 = new List<String>();
             Tareas1.Add("Tarea 4");
             Tareas1.Add("Tarea 5");
             Tareas1.Add("Tarea 6");
@@ -83,8 +101,9 @@ namespace ToolsHome.Views
                 Estado = "Hecho"
             });
 
-            cvlLista4.ItemsSource = Tareas4;
+            cvlLista4 .ItemsSource = Tareas4;
 
         }
     } 
 }
+            */

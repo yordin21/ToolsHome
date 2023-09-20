@@ -30,17 +30,41 @@
     <AppXManifest Include="C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-13T04:34:21.622</Modified>
+      <Modified>2023-09-20T14:49:39.004</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.UWP.exe">
       <PackagePath>entrypoint\ToolsHome.UWP.exe</PackagePath>
-      <Modified>2023-09-13T04:09:22.533</Modified>
+      <Modified>2023-09-20T13:32:43.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jordin\.nuget\packages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2021-02-05T01:15:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordin\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2021-09-02T21:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordin\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2020-09-03T17:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordin\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2020-09-03T17:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordin\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win10-x64\nativeassets\uap10.0\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2020-08-17T14:39:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordin\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.0.4\lib\uap10.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2020-09-03T17:13:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordin\.nuget\packages\system.runtime.compilerservices.unsafe\4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll">
+      <PackagePath>System.Runtime.CompilerServices.Unsafe.dll</PackagePath>
+      <Modified>2018-09-18T19:38:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jordin\.nuget\packages\win2d.uwp\1.20.0\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
@@ -68,7 +92,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\bin\Debug\netstandard2.0\ToolsHome.dll">
       <PackagePath>ToolsHome.dll</PackagePath>
-      <Modified>2023-09-13T04:34:16.406</Modified>
+      <Modified>2023-09-20T14:49:32.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jordin\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -227,11 +251,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2023-09-13T04:34:20.707</Modified>
+      <Modified>2023-09-20T14:49:37.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2023-09-13T04:34:20.707</Modified>
+      <Modified>2023-09-20T14:49:37.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.22621.0\\redist\Debug\X64\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -251,7 +275,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Core\ToolsHome.UWP.exe">
       <PackagePath>ToolsHome.UWP.exe</PackagePath>
-      <Modified>2023-09-13T04:34:21.606</Modified>
+      <Modified>2023-09-20T14:49:38.995</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

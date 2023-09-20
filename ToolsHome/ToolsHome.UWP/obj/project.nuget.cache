@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6GLdl1XNIVEtaCr+5slF8NxE2qm5t4d8jM3PKJQh9+x/tjeexSw0F2Df8mA8X8mR0RS/mUtnZkk7mE/IEa3iaA==",
+  "dgSpecHash": "J3Iv7nxGzl+TMLMFdi1ghMBrMTyJFohRP4AEYyngxDYN2/ukO55u/MMUAcyIHtg0sNXo/qaSIBvX4VMjueTm2g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jordin\\Desktop\\ToolsHome\\ToolsHome\\ToolsHome.UWP\\ToolsHome.UWP.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,13 @@
     "C:\\Users\\Jordin\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.8-rel-29722-00\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.8-rel-29722-00.nupkg.sha512",
     "C:\\Users\\Jordin\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.2.12\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",
     "C:\\Users\\Jordin\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.12\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.12.nupkg.sha512",
+    "C:\\Users\\Jordin\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\Jordin\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\Jordin\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Jordin\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Jordin\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Jordin\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Jordin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\Jordin\\.nuget\\packages\\win2d.uwp\\1.20.0\\win2d.uwp.1.20.0.nupkg.sha512",
     "C:\\Users\\Jordin\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Jordin\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
