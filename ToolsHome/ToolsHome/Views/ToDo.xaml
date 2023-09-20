@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToolsHome.Views.ToDo"
+             Title="ToDo">
+    
+    <ContentPage.Content>
+        
+        <StackLayout>
+            
+            <!--- ListView con arreglos desde XAML -->
+
+            <ListView>
+                <ListView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Tarea 1</x:String>
+                        <x:String>Tarea 2</x:String>
+                        <x:String>Tarea 3</x:String>
+                    </x:Array>
+                </ListView.ItemsSource>
+            </ListView>
+            <!-- ListView con areglo desde Behind code -->
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <ListView x:Name="lista1">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Label  Text="{Binding}" Margin="0"/>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <!-- ListView con areglo desde Behind code -->
+            <ListView x:Name="lista3">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Label  Text="{Binding Descripcion}"
+                                    Margin="0"/>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <!--colleccion view com modelos-->
+            <!-- CollectionView con modelos -->
+            <!-- CollectionView con modelos -->
+            <CollectionView x:Name="cvlLista4"  SelectionMode="Multiple">
+                <CollectionView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Vertical" ItemSpacing="5" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <FlexLayout Direction="Row" 
+                        HeightRequest="50"
+                        
+                        JustifyContent="SpaceAround"
+                        BackgroundColor="{StaticResource colorPrimaryDark}" >
+                            
+                            <CheckBox HorizontalOptions="EndAndExpand" 
+                                      Color="Yellow"/>
+                            
+                            <Label Text="{Binding Descripcion } " TextColor="White" FontSize="17" />
+                            <Label Text="{Binding Estado }" TextColor="White" FontSize="15" />
+                            <Label Text="{Binding FechaRegistro }" TextColor="White" FontSize="15"/>
+
+                        </FlexLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <!-- CollectionView con modelos -->
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

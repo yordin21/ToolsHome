@@ -1,0 +1,1 @@
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\ToolsHome.UWP.csproj;x64

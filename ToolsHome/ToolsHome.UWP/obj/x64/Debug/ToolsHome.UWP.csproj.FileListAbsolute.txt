@@ -1,0 +1,126 @@
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\App.xbf
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\MainPage.xbf
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.UWP.xr.xml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.UWP.exe
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.UWP.pdb
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\resources.pri
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\AppxManifest.xml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Core\AppxManifest.xml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Core\ToolsHome.UWP.exe
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.UWP.build.appxrecipe
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\System.Runtime.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Essentials.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Essentials.pdb
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.pdb
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.csproj.AssemblyReference.cache
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\App.g.i.cs
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\App.g.cs
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MainPage.g.i.cs
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MainPage.g.cs
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\App.xaml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MainPage.xaml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\App.xbf
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MainPage.xbf
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.csproj.CoreCompileInputs.cache
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.csproj.CopyComplete
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\Xamarin.Essentials.pri.xml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.exe
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.pdb
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ResourceHandlingTask.state
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\priconfig.xml
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\priconfig.xml.intermediate
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\filtered.layout.resfiles
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\excluded.layout.resfiles
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\resources.resfiles
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\resources.resfiles.intermediate
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\pri.resfiles
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\pri.resfiles.intermediate
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\qualifiers.txt
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ProjectArchitectures.txt
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638194640980000000.json
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\App.xbf
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\MainPage.xbf
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.UWP.xr.xml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.UWP.exe
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.UWP.pdb
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\resources.pri
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Core\ToolsHome.UWP.exe
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.UWP.build.appxrecipe
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Essentials.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Essentials.pdb
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\bin\x64\Debug\ToolsHome.pdb
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.csproj.AssemblyReference.cache
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\App.g.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MainPage.g.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\App.xaml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MainPage.xaml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\App.xbf
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MainPage.xbf
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.csproj.CoreCompileInputs.cache
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.csproj.CopyComplete
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\Xamarin.Essentials.pri.xml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.exe
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ToolsHome.UWP.pdb
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160715180000000.json
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638194640980000000.json

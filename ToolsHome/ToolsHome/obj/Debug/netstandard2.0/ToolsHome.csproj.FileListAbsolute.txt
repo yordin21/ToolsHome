@@ -1,0 +1,33 @@
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\bin\Debug\netstandard2.0\ToolsHome.deps.json
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\bin\Debug\netstandard2.0\ToolsHome.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\bin\Debug\netstandard2.0\ref\ToolsHome.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\bin\Debug\netstandard2.0\ToolsHome.pdb
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.csproj.AssemblyReference.cache
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.AssemblyInfoInputs.cache
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.AssemblyInfo.cs
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.csproj.CoreCompileInputs.cache
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\refint\ToolsHome.dll
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.pdb
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+E:\Visual Code Tareas\SENATI 6 CICLO\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\Views\Mts2.xaml.g.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\bin\Debug\netstandard2.0\ToolsHome.deps.json
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\bin\Debug\netstandard2.0\ToolsHome.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\bin\Debug\netstandard2.0\ref\ToolsHome.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\bin\Debug\netstandard2.0\ToolsHome.pdb
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.csproj.AssemblyReference.cache
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\Views\Mts2.xaml.g.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.AssemblyInfoInputs.cache
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.AssemblyInfo.cs
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.csproj.CoreCompileInputs.cache
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\refint\ToolsHome.dll
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\ToolsHome.pdb
+C:\Users\Jordin\Desktop\ToolsHome\ToolsHome\ToolsHome\obj\Debug\netstandard2.0\Views\ToDo.xaml.g.cs
