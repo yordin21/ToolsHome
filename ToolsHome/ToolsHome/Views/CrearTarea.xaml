@@ -3,24 +3,45 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ToolsHome.Views.CrearTarea">
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Grabar"
+        <ToolbarItem Text="Grabar" 
                  Order="Primary"
                  Clicked="ToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Descripcion" TextColor="Blue" FontAttributes="Bold" FontSize="17" FontFamily="arial black" />
-            <Entry x:Name="txtDescripcion" TextColor="Blue" FontFamily="arial black"/>
-            <Label Text="Fecha de resgistro"/>
-            <DatePicker x:Name="calFecha"/>
-            <Label Text="Estado"/>
-            <Picker x:Name="cmbEstado">
+            
+            <Label Text="Descripcion" TextColor="Blue" FontAttributes="Bold" FontSize="15" FontFamily="arial black" HorizontalOptions="Center"/>
+            <Entry x:Name="txtDescripcion" TextColor="Blue" FontFamily="arial" BackgroundColor="GreenYellow" />
+            <Label Text="FechaResgistro" TextColor="blue" FontFamily="arial" HorizontalOptions="CenterAndExpand"/>
+            <DatePicker x:Name="calFecha" TextColor="blue" FontFamily="arial" BackgroundColor="GreenYellow" HorizontalOptions="CenterAndExpand" />
+            <Label Text="Estado" TextColor="blue" FontFamily="arial black" FontSize="14" HorizontalOptions="CenterAndExpand"/>
+            <Picker x:Name="cmbEstado" BackgroundColor="GreenYellow">
                 <Picker.ItemsSource>
                     <x:Array Type="{x:Type x:String}">
                         <x:String>Pendiente</x:String>
                     </x:Array>
                 </Picker.ItemsSource>
             </Picker>
+
+
+            
+            
+            <Button Text="Eliminar Tarea" Clicked="EliminarTarea_Clicked"/>
+
+            <ListView x:Name="cvTareas" ItemSelected="OnItemSelected" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell >
+                            <StackLayout>
+                                <Label Text="{Binding Descripcion}" />
+                                <Label Text="{Binding FechaRegistro}" />
+                                <Label Text="{Binding Estado}" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
