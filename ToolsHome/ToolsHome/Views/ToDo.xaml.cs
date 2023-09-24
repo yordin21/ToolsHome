@@ -12,7 +12,7 @@ namespace ToolsHome.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ToDo : ContentPage
-    {
+    {        
         public ToDo()
         {
             InitializeComponent();
@@ -21,46 +21,93 @@ namespace ToolsHome.Views
         protected override void OnAppearing()
         {
             base.OnAppearing();
-            CargarItems();
+            //CargarItems();
         }
 
-        private async void CargarItems()
-        {
-            var Tareas = await App.Context.GetItemsAsync();
-            cvTareas.ItemsSource = Tareas;
-        }
+        //private async void CargarItems()
+        //{
+        //    var Tareas = await App.Context.GetItemsAsync();
+        //    cvTareas.ItemsSource = Tareas;
+        //}
 
         private async void ToolbarItem_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new CrearTarea());
         }
 
-        private async void EliminarTarea_Clicd(object sender, EventArgs e)
-        {
-            if (cvTareas.SelectedItem is Tarea tareaSeleccionada)
-            {
-                if (await DisplayAlert("Confirmación", "¿Estás seguro de que deseas eliminar esta tarea?", "Sí", "Cancelar"))
-                {
-                    int resultado = await App.Context.DeleteItemAsync(tareaSeleccionada);
+        //private async void EliminarTarea_Clicked(object sender, EventArgs e)
+        //{
+        //    var eliminar = cvTareas.SelectedItems;
+   
+        //    foreach (var elemento in eliminar)
+        //    {
+        //        if (elemento is Tarea tarea)
 
-                    if (resultado == 1)
-                    {
-                        await DisplayAlert("Éxito", "Tarea eliminada correctamente", "OK");
-                        CargarItems();
-                    }
-                    else
-                    {
-                        await DisplayAlert("Error", "No se pudo eliminar la tarea", "OK");
-                    }
-                }
-            }
-            else
-            {
-                await DisplayAlert("Error", "Por favor, seleccione una tarea para eliminar.", "OK");
+        //        {
+        //            await App.Context.DeleteItemAsync(tarea);
+
+        //            CargarItems();
+        //        }
+
+
             }
         }
-    }
-}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -133,3 +180,9 @@ cvlLista4 .ItemsSource = Tareas4;
 } 
 }
 */
+
+
+
+//public IList<String> Tareas1 { get; set; }
+//public IList<String> Tareas2 { get; set; }
+//public IList<String> Tareas3 { get; set; }

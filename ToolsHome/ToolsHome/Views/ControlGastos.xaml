@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToolsHome.Views.ControlGastos"
+             Title="Control De Gastos">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Insertar" 
+                 Order="Primary"
+                 Clicked="AgregarGasto_Clicked" />
+        <ToolbarItem Text="Eliminar" 
+                 Order="Primary"
+                 Clicked="EliminarGastos_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <CollectionView x:Name="cvGastos" SelectionMode="Multiple">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Margin="10">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+
+                                <Frame CornerRadius="15" BackgroundColor="#F7F7F7" Margin="0">
+                                    <StackLayout Orientation="Vertical" Spacing="10" Padding="5">
+                                        <Label Text="{Binding Descripcion}" FontSize="18" TextColor="#333333" FontAttributes="Bold" VerticalOptions="CenterAndExpand" />
+                                        <Label Text="{Binding Categoria}" FontSize="16" TextColor="#666666" VerticalOptions="CenterAndExpand" />
+                                        <Label Text="{Binding Fecha, StringFormat='Fecha: {0:dd/MM/yyyy}'}" FontSize="16" TextColor="#666666" VerticalOptions="CenterAndExpand" />
+                                        <Label Text="{Binding Monto, StringFormat='Monto: {0:S/.}'}" FontSize="16" TextColor="#666666" VerticalOptions="CenterAndExpand" />
+                                    </StackLayout>
+                                </Frame>
+
+
+                            </Grid>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+        
+        
+    </ContentPage.Content>
+</ContentPage>

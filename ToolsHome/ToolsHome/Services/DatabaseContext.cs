@@ -16,7 +16,28 @@ namespace ToolsHome.Services
         {
             Connection = new SQLiteAsyncConnection(path);
             Connection.CreateTableAsync<Tarea>().Wait();
+            Connection.CreateTableAsync<Gastos>().Wait();
+
         }
+
+        public async Task<List<Gastos>> GetGastosAsync()
+        {
+            return await Connection.Table<Gastos>().ToListAsync();
+        }
+
+        public async Task<int> InsertItemAsync(Gastos item)
+        {
+            return await Connection.InsertAsync(item);
+        }
+
+        public async Task<int> DeleteGastosAsync(int ID)
+        {
+            return await Connection.DeleteAsync<Gastos>(ID);
+
+        }
+
+
+
 
         public async Task<List<Tarea>> GetItemsAsync()
         {
@@ -30,11 +51,15 @@ namespace ToolsHome.Services
 
         public async Task<int> DeleteItemAsync(Tarea tarea)
         {
-            {
-                return await Connection.DeleteAsync(tarea);
-            }
+            return await Connection.DeleteAsync(tarea);
         }
+
+ 
+        
     }
+
 }
+
+
 
 

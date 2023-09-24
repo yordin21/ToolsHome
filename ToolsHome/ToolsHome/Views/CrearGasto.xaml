@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ToolsHome.Views.CrearGasto">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Grabar" 
+                     Order="Primary"
+                     Clicked="AgregarGasto_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout Padding="15" BackgroundColor="WhiteSmoke" Margin="20">
+            <Label Text="Agregar Gasto" FontSize="20" Margin="0,0,0,10" HorizontalOptions="Center" TextColor="Black" FontAttributes="Bold" FontFamily="Arial Black"/>
+            <Entry Placeholder="Descripción" x:Name="DescripcionEntry" BackgroundColor="WhiteSmoke" />
+            <Picker x:Name="CategoriaPicker" Title="Elegir Categoría"  BackgroundColor="WhiteSmoke">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Mantenimiento</x:String>
+                        <x:String>Electricidad</x:String>
+                        <x:String>Agua</x:String>
+                        <x:String>Luz</x:String>
+                        <x:String>Gas</x:String>
+                        <x:String>Internet</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+            <DatePicker x:Name="FechaDatePicker" Margin="20" BackgroundColor="WhiteSmoke" />
+            <Entry Placeholder="Monto" x:Name="MontoEntry" BackgroundColor="WhiteSmoke" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

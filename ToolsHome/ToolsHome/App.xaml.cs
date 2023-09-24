@@ -15,13 +15,13 @@ namespace ToolsHome
             InitializeDatabase();
 
             MainPage = new NavigationPage(new HomePage());
+            
         }
-
         private void InitializeDatabase()
         {
             var folderApp = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
             var dbPath = System.IO.Path.Combine(folderApp, "Tarea.db3");
-            Context = new DatabaseContext(dbPath);
+            Context = new DatabaseContext(dbPath); 
         }
         protected override void OnStart()
         {

@@ -3,26 +3,45 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
                    x:Class="ToolsHome.Views.HomePage">
 <ContentPage.Content>
-    <StackLayout Orientation="Horizontal">
-        <Label Text="¡W E L C O M E   T O T O O L S   H O M E!"
-            HorizontalOptions="CenterAndExpand" 
-            TextColor="{StaticResource colorAccent}"/>
-        <Button x:Name="Mts"
-                Margin="0,50"
+        <StackLayout  Spacing="20" Padding="20">
+            <Label Text="¡W E L C O M E   T O T O O L S   H O M E!"
+           HorizontalOptions="CenterAndExpand"
+           TextColor="{StaticResource colorAccent}"
+           FontSize="24"
+           FontAttributes="Bold"/>
+
+            <Button x:Name="Control"
+            BackgroundColor="{StaticResource colorPrimary}"
+            Text="Control De Gastos"
+            VerticalOptions="CenterAndExpand"
+            TextTransform="None"
+            CornerRadius="10"
+            TextColor="White"
+            Clicked="Control_Clicked"/>
+
+            <Button x:Name="Mts"
             BackgroundColor="{StaticResource colorPrimary}"
             Text="Calcular Mts2"
-            VerticalOptions="Center"
+            VerticalOptions="CenterAndExpand"
             TextTransform="None"
+            CornerRadius="10"
+            TextColor="White"
             Clicked="Mts2_Clicked"/>
-        <Button x:Name="ToDo"
+
+            <Button x:Name="ToDo"
             BackgroundColor="{StaticResource colorPrimary}"
             Text="ToDo"
-            VerticalOptions="Center"
-                
+            VerticalOptions="CenterAndExpand"
             TextTransform="None"
+            CornerRadius="10"
+            TextColor="White"
             Clicked="ToDo_Clicked"/>
-        <Label x:Name="lblRespuesta"
-            Text=""/>
+
+            <Label x:Name="lblRespuesta"
+           Text=""
+           FontSize="18"
+           HorizontalOptions="CenterAndExpand"/>
         </StackLayout>
+
     </ContentPage.Content>
 </ContentPage>
